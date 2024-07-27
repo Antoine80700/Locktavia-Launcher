@@ -2,7 +2,7 @@
     "name": "Locktavia-Launcher",
     "preductname": "Locktavia-Launcher",
     "version": "1.0.0",
-    "description": "Launcher Mincraft pour le serveur Locktavie",
+    "description": "Launcher Mincraft pour le serveur Locktavia",
     "main": "src/app.js",
     "author": {
         "name": "Antoine.",
