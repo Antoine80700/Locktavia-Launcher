@@ -8,7 +8,7 @@
         "name": "Antoine.",
         "url": ""
     },
-    "url": "http://locktavia.fr",
+    "url": "http://locktavia.fr/Locktavia-Launcher-WEB-Folder",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
